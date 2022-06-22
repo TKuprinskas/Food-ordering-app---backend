@@ -1,0 +1,17 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "depro11.fcomet.com",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "teniso_partneris",
+      "database": "tenisopa_tenisopartneris",
+      "username": "tenisopa_admin",
+      "password": "tomse1502"
+    }
+  ]
+}

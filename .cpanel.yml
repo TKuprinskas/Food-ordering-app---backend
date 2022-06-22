@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/tenisopa/backend.tenisopartneris.lt/
+    - /bin/cp -a * $DEPLOYPATH
